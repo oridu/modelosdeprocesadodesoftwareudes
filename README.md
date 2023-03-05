@@ -1,2 +1,0 @@
-# modelosdeprocesadodesoftwareudes
-parcial
